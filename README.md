@@ -5,7 +5,7 @@ This repository contains all the projects I completed as part of the **Scientifi
 ## ✅ Certificate
 
 You can view my certification here:  
-[📜 Certification URL](#) ← https://www.freecodecamp.org/certification/dainelbarahona/scientific-computing-with-python-v7
+[📜 Certification URL](https://www.freecodecamp.org/certification/danielbarahona/scientific-computing-with-python-v7)
 
 ---
 
